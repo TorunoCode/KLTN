@@ -2,8 +2,11 @@
 KHOÁ LUẬN TỐT NGHIỆP
 -----------------------
 Khoa Đào tạo Chất lượng cao
+
 Tên đề tài: THIẾT KẾ VÀ XÂY DỰNG WEBSITE QUẢN LÝ BÁN VÉ XEM PHIM TRỰC TUYẾN
+
 GVHD: PGS.TS Hoàng Văn Dũng
+
 GVPB: TS Nguyễn Thiên Bảo
 
 Sinh viên thực hiện:
